@@ -19,6 +19,7 @@ Driven by innovation, I create intelligent AI solutions and craft timeless digit
 ### Projects
 
 - 🔧 [SkillTool](https://github.com/KSPandian7/SkillTool): NLP-based skill extraction using spaCy & PhraseMatcher.
+- 🔧 [Speech-to-Text](https://github.com/KSPandian7/Speech-To-Text.git): Speech-To-Text is a web application built using Flask and JavaScript that allows users to convert spoken words into text.
 
 ### NFT Gallery
 
