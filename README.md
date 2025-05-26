@@ -1,6 +1,6 @@
 ## Hey! I'm KSP. 
 
-**B.Tech AI/ML | NFT Creator**
+**B.Tech AI/ML | [NFT Creator](https://opensea.io/collection/narrowNFT)**
 <br>
 > "Code the future, design your legacy."
 
