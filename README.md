@@ -1,6 +1,9 @@
 ## Hey! I'm KSP. 
 
 
+<a href="https://ipfs.io/ipfs/bafkreihzo3cxvhdq5pofhvuutdgpjjgcwarar5dhhc7beexwsljr2clp3y" target="_blank" rel="noopener noreferrer">Resume</a>
+
+
 | GitHub Streak | Top Languages |
 |--------------|---------------|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KSPandian7&theme=light) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSPandian7&layout=compact&theme=light) |
