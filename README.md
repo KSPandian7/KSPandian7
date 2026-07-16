@@ -1,14 +1,6 @@
 ## Hey! I'm KSP. 
 
 
-<a href="https://ipfs.io/ipfs/bafkreihzo3cxvhdq5pofhvuutdgpjjgcwarar5dhhc7beexwsljr2clp3y" target="_blank" rel="noopener noreferrer">Resume</a>
-
-
-| GitHub Streak | Top Languages |
-|--------------|---------------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KSPandian7&theme=light) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSPandian7&layout=compact&theme=light) |
-
-
 ### Coding Platforms
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-ksp_lc-orange?logo=leetcode)](https://leetcode.com/u/ksp_lc/)<br>
@@ -19,12 +11,6 @@
 - 🔧 [SkillTool](https://github.com/KSPandian7/SkillTool): NLP-based skill extraction using spaCy & PhraseMatcher.<br>
 - 🔧 [Speech-to-Text](https://github.com/KSPandian7/Speech-To-Text.git): Speech-To-Text is a web application built using Flask and JavaScript that allows users to convert spoken words into text.<br>
 - 🔧 [Book Recommendation System](https://github.com/KSPandian7/flask-book-recommendation.git): Provides book recommendations based on content similarity, built with Python and Flask, ideal for learning fundamental NLP techniques.
-
-### NFT Gallery
-
-<a href="https://opensea.io/gallery/0x75354a6fd7a09555cce25c838b54de23ae5a18ec/d67ecbb86e744141939d9da67a8db4ff" target="_blank">
-  <img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" alt="OpenSea Portfolio" width="30" height="30"/>
-</a>
 
 
 ### Tech Stack
